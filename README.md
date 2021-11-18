@@ -9,3 +9,7 @@ Sugiro o álbum plastic beach Gorillaz para acompanhar a visualização.
 ![](https://github.com/Maliarte/images/blob/master/todos-temos-sentidos-maliarte.jpg)
 ## caramujo acústico
 ![](https://github.com/Maliarte/images/blob/master/todos-temos-sentidos.png)
+## Dados -> Representar, Armazenar e Encontrar parte I: representar
+![](https://github.com/Maliarte/images/blob/master/representar-maliarte.jpg)
+![](https://github.com/Maliarte/images/blob/master/representar-maliarte-2.jpg)
+![](https://github.com/Maliarte/images/blob/master/representar-maliarte-3.jpg)
