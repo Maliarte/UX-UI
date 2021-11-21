@@ -17,4 +17,4 @@ Sugiro o álbum plastic beach Gorillaz para acompanhar a visualização.
 ###### A rotina está cercada de informação, identificar, alocar, indexar dados são tarefas fundamentais. 
 ###### Dessa forma, trago uma série voltada para a user experience, para usuários que querem mais. Acompanhe o trabalho para a experiência completa:
 
-alt:Capa beatles, calçados inline e fechamento de tag semântica. Associação neuro-cognitiva para aprendizado com Maliarte Edunimento Integrativo Digitall.
+
